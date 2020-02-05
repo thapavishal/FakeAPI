@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "img": "./images/leaf.jpg",
+      "name": "Titanic",
+      "director": "James Cameron",
+      "year": 1997,
+      "actor": "Jack & Rose",
+      "company": "Paramount"
+    },
+    {
+      "id": 2,
+      "img": "./images/sunset.jpg",
+      "name": "Love and other drugs",
+      "director": "John Lenon",
+      "year": 1999,
+      "actor": "Jake",
+      "company": "Sony"
+    },
+    {
+      "id": 3,
+      "name": "Troy",
+      "img": "./images/sky.jpg",
+      "director": "Mr. Happy",
+      "year": 1995,
+      "actor": "Tom & Brad",
+      "company": "Marvel"
+    },
+    {
+      "name": "Iron Man",
+      "img": "./images/sunset.jpg",
+      "director": "Happy",
+      "year": 2005,
+      "actor": "Downey",
+      "company": "MArvel",
+      "id": 4
+    }
+  ]
+}
